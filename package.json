@@ -1,0 +1,26 @@
+{
+  "name": "cloud-computing",
+  "version": "1.0.0",
+  "description": "A demo application for teaching test-first development and Node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChaiWithJai/cloud-computing.git"
+  },
+  "keywords": [
+    "test-driven-development",
+    "Node",
+    "Node.js",
+    "open-source",
+    "demo"
+  ],
+  "author": "@ChaiWithJai",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/ChaiWithJai/cloud-computing/issues"
+  },
+  "homepage": "https://github.com/ChaiWithJai/cloud-computing#readme"
+}

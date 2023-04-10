@@ -91,6 +91,9 @@ dist
 # vuepress build output
 .vuepress/dist
 
+# SQLite Files
+*.sqlite
+
 # Serverless directories
 .serverless/
 
